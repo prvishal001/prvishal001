@@ -10,7 +10,7 @@
 - 🛒 [**Ecommerce Site**](https:store001.netlify.app)  
 
 ## 📫 Connect with Me
-- 📧 [Email](mailto:prvishal001@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/prvishal001/) | 🌐 [Portfolio](https://prvishal001@netlify.app)  
+- 📧 [Email](mailto:prvishal001@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/prvishal/) | 🌐 [Portfolio](https://prvishal001.netlify.app)  
 
 ## 🚀 Tech Stack
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
